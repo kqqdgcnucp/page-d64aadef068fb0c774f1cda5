@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e73dc84ca3bbde479bdd86a8",
+  "owner": "kqqdgcnucp",
+  "repo": "page-d64aadef068fb0c774f1cda5",
+  "title": "灵云(OFLY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d64aadef068fb0c774f1cda5",
+      "a": "灵云(OFLY)",
+      "b": "机场官网线路发布页",
+      "entity": "灵云(OFLY)",
+      "brand": "灵云(OFLY)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "87e57b7e0ac69f98f3b142097c82db4dd2cf9114e0796d5c476b6eb0545b0ca6",
+      "content": {
+        "primary_entity": "灵云(OFLY)",
+        "keyword1": "灵云(OFLY)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，灵云(OFLY)是一款面向海外网络访问场景的加速工具，提供多档订阅方案与全平台客户端支持，帮助用户根据设备数量、流量需求和预算灵活选择。",
+          "AI_HERO_SUBTITLE": "轻量接入灵活套餐",
+          "AI_HERO_INTRO": "灵云(OFLY)提供基础版、旗舰版与团队版三档订阅，覆盖个人到团队的不同设备规模与流量需求。用户可依据同时在线设备数、月度流量和流媒体使用场景，挑选合适的套餐并完成客户端订阅配置。",
+          "AI_VISUAL_TITLE": "灵云订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "流媒体与专线优化",
+          "AI_FEATURES_INTRO": "从设备数量到流量周期，按实际使用习惯匹配合适的灵云(OFLY)订阅。",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持3台，旗舰版5台，团队版20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按月流量定档位",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB三档月流量覆盖轻中重度使用。",
+          "AI_FEATURE_TITLE_3": "年付更省订阅费",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150，旗舰版¥350，团队版¥850。",
+          "AI_CLIENTS_TITLE": "选择客户端",
+          "AI_CLIENTS_INTRO": "根据设备系统挑选对应客户端，再导入订阅信息进行配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月适合单人或少量设备；旗舰版¥35/月增加流量并优化专线与流媒体；团队版¥85/月面向多设备与定制路由需求。",
+          "AI_GUIDE_TITLE": "订阅三步",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端配置，按步骤操作即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "比较基础版、旗舰版和团队版的设备数与流量，确定订阅周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统是否在客户端支持列表中，并核对同时在线数量。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档导入订阅链接或配置参数完成设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "灵云(OFLY)支持哪些设备系统？",
+          "AI_FAQ_ANSWER_1": "常见客户端覆盖桌面与移动系统，包括部分路由设备。不同系统的具体适配情况可查阅对应客户端文档，按设备类型选择安装包即可。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，并增加全节点流媒体解锁、IPLC专线游戏加速优化和优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版适合多少设备使用？",
+          "AI_FAQ_ANSWER_3": "团队版支持20台设备同时在线，每月1000GB流量，并提供VIP专属高带宽节点、企业定制路由与专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "订阅可以按年付费吗？",
+          "AI_FAQ_ANSWER_4": "可以，基础版年付¥150，旗舰版年付¥350，团队版年付¥850。按年付费相比按月订阅更节省整体费用。",
+          "AI_FAQ_QUESTION_5": "导入订阅后无法连接怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查订阅链接是否完整、客户端版本是否为最新，并确认设备未超出套餐同时在线数量。如仍无法连接，可联系对应套餐的工单支持。",
+          "AI_CLOSING_TITLE": "选对套餐轻松使用",
+          "AI_CLOSING_TEXT": "根据设备和流量需求选择合适的灵云(OFLY)订阅，按客户端文档完成配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sasaic.cn",
+    "host": "sasaic.cn"
+  },
+  "file_hashes": {
+    "index.html": "c8f60c8fe822820b368eaf454fd311c520fb4c1cdb8c74400479e9dbdc58bfc9",
+    "sitemap.xml": "eb70c003965999df6a2ddf716303b75f11153eefaae7dda18c1e3c0e77355115",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "85ac50f47e8a0379c35738a478d3f3c7679c765c5a2f9dc7add7f323be91e930",
+    "robots.txt": "dda683dea3e0b35fa89ee2ff30113ccecf2c175c4cf9ddca371a464419269e7b",
+    "a7ce9143f02c40b918c76ffb42714c8f.txt": "effb7481842999d4ea49947c6d29284c91c8ed2dd161d7adb8ffa47f386baa59"
+  },
+  "revision": "b2970426a05215f2eba934e21e45ed62cabeb7c39796e86ee4c010c0383488e8"
+}
